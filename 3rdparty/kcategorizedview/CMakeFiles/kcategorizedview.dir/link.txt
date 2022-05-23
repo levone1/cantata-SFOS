@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkcategorizedview.a CMakeFiles/kcategorizedview.dir/kcategorizedview_autogen/mocs_compilation.cpp.o CMakeFiles/kcategorizedview.dir/kcategorizedsortfilterproxymodel.cpp.o CMakeFiles/kcategorizedview.dir/kcategorizedview.cpp.o CMakeFiles/kcategorizedview.dir/kcategorydrawer.cpp.o
+/usr/bin/ranlib libkcategorizedview.a

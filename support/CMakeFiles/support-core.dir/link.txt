@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsupport-core.a CMakeFiles/support-core.dir/support-core_autogen/mocs_compilation.cpp.o CMakeFiles/support-core.dir/utils.cpp.o CMakeFiles/support-core.dir/thread.cpp.o
+/usr/bin/ranlib libsupport-core.a

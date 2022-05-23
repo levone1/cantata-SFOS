@@ -1,0 +1,2 @@
+/usr/bin/ar qc libebur128.a CMakeFiles/ebur128.dir/ebur128_autogen/mocs_compilation.cpp.o CMakeFiles/ebur128.dir/ebur128.c.o
+/usr/bin/ranlib libebur128.a

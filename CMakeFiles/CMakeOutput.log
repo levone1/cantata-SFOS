@@ -1,0 +1,429 @@
+The system is: Linux - 4.14.254-gadd31cf4ca50 - aarch64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/3.19.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/3.19.3/CompilerIdCXX/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_82a55/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_82a55.dir/build.make CMakeFiles/cmTC_82a55.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+Target: aarch64-meego-linux-gnu
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu
+Thread model: posix
+gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -march=armv8-a -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc1nTWd7.s
+GNU C17 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)
+	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include-fixed"
+ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../aarch64-meego-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include
+ /usr/local/include
+ /usr/include
+End of search list.
+GNU C17 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)
+	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 287a6519aacf301d832795139a589140
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ as -v -EL -march=armv8-a -mabi=lp64 -o CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o /tmp/cc1nTWd7.s
+GNU assembler version 2.32 (aarch64-meego-linux) using BFD version (GNU Binutils) 2.32
+COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/
+LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+Linking C executable cmTC_82a55
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82a55.dir/link.txt --verbose=1
+/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -o cmTC_82a55 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/lto-wrapper
+Target: aarch64-meego-linux-gnu
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu
+Thread model: posix
+gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) 
+COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/
+LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_82a55' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2 --build-id --eh-frame-hdr -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux -o cmTC_82a55 /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_82a55' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+    add: [/usr/local/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include] ==> [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include;/usr/local/include;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake cmTC_82a55/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_82a55.dir/build.make CMakeFiles/cmTC_82a55.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [Target: aarch64-meego-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/cc1 -quiet -v /usr/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -march=armv8-a -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc1nTWd7.s]
+  ignore line: [GNU C17 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)]
+  ignore line: [	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../aarch64-meego-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)]
+  ignore line: [	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 287a6519aacf301d832795139a589140]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ as -v -EL -march=armv8-a -mabi=lp64 -o CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o /tmp/cc1nTWd7.s]
+  ignore line: [GNU assembler version 2.32 (aarch64-meego-linux) using BFD version (GNU Binutils) 2.32]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o' '-c' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [Linking C executable cmTC_82a55]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82a55.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -o cmTC_82a55 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/lto-wrapper]
+  ignore line: [Target: aarch64-meego-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_82a55' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  link line: [ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2 --build-id --eh-frame-hdr -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux -o cmTC_82a55 /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib/ld-linux-aarch64.so.1] ==> ignore
+    arg [-X] ==> ignore
+    arg [-EL] ==> ignore
+    arg [-maarch64linux] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_82a55] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o] ==> ignore
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0]
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..]
+    arg [CMakeFiles/cmTC_82a55.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o] ==> ignore
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0] ==> [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0]
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64] ==> [/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..] ==> [/usr/lib64]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0;/usr/lib64;/lib64]
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_b33a8/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b33a8.dir/build.make CMakeFiles/cmTC_b33a8.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++   -v -o CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+Target: aarch64-meego-linux-gnu
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu
+Thread model: posix
+gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -march=armv8-a -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJ3meoA.s
+GNU C++14 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)
+	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include-fixed"
+ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../aarch64-meego-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0
+ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/aarch64-meego-linux-gnu
+ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/backward
+ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include
+ /usr/local/include
+ /usr/include
+End of search list.
+GNU C++14 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)
+	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version none
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 7140a2ce383d8254278c1fa8093e4e70
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ as -v -EL -march=armv8-a -mabi=lp64 -o CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJ3meoA.s
+GNU assembler version 2.32 (aarch64-meego-linux) using BFD version (GNU Binutils) 2.32
+COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/
+LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+Linking CXX executable cmTC_b33a8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b33a8.dir/link.txt --verbose=1
+/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b33a8 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/lto-wrapper
+Target: aarch64-meego-linux-gnu
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu
+Thread model: posix
+gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) 
+COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/
+LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b33a8' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2 --build-id --eh-frame-hdr -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux -o cmTC_b33a8 /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b33a8' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64'
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0]
+    add: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/aarch64-meego-linux-gnu]
+    add: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/backward]
+    add: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+    add: [/usr/local/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0] ==> [/usr/include/c++/8.3.0]
+  collapse include dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/aarch64-meego-linux-gnu] ==> [/usr/include/c++/8.3.0/aarch64-meego-linux-gnu]
+  collapse include dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/backward] ==> [/usr/include/c++/8.3.0/backward]
+  collapse include dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include] ==> [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/include/c++/8.3.0;/usr/include/c++/8.3.0/aarch64-meego-linux-gnu;/usr/include/c++/8.3.0/backward;/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include;/usr/local/include;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake cmTC_b33a8/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b33a8.dir/build.make CMakeFiles/cmTC_b33a8.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [Target: aarch64-meego-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -march=armv8-a -mlittle-endian -mabi=lp64 -auxbase-strip CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJ3meoA.s]
+  ignore line: [GNU C++14 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)]
+  ignore line: [	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../aarch64-meego-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0]
+  ignore line: [ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/aarch64-meego-linux-gnu]
+  ignore line: [ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../include/c++/8.3.0/backward]
+  ignore line: [ /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++14 (Linaro GCC 8.2-2018.08~dev) version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (aarch64-meego-linux-gnu)]
+  ignore line: [	compiled by GNU C version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-3)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version none]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 7140a2ce383d8254278c1fa8093e4e70]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [ as -v -EL -march=armv8-a -mabi=lp64 -o CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJ3meoA.s]
+  ignore line: [GNU assembler version 2.32 (aarch64-meego-linux) using BFD version (GNU Binutils) 2.32]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  ignore line: [Linking CXX executable cmTC_b33a8]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b33a8.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_b33a8 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/lto-wrapper]
+  ignore line: [Target: aarch64-meego-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --disable-bootstrap --with-bugurl=https://git.sailfishos.org/ --build=aarch64-meego-linux-gnu --with-isl=/home/abuild/rpmbuild/BUILD/gcc-arm-src-snapshot-8.3-2019.03/obj-aarch64-meego-linux-gnu/isl-install --enable-plugin --enable-initfini-array --with-arch=armv8-a --disable-sjlj-exceptions --enable-gold --with-plugin-ld=gold --libdir=/usr/lib64 --disable-multilib --enable-checking=release --disable-fixed-point --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-lto --enable-linker-build-id --disable-libmpx --enable-languages=c,c++,lto --enable-threads=posix --enable-shared --disable-libgcj --disable-libcilkrts --enable-gnu-indirect-function --build=aarch64-meego-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 8.3.0 20190222 (Sailfish OS gcc 8.3.0-4) (Linaro GCC 8.2-2018.08~dev) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/libexec/gcc/aarch64-meego-linux-gnu/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_b33a8' '-shared-libgcc' '-march=armv8-a' '-mlittle-endian' '-mabi=lp64']
+  link line: [ /usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2 --build-id --eh-frame-hdr -export-dynamic -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux -o cmTC_b33a8 /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o /usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/aarch64-meego-linux-gnu/8.3.0/collect2] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib/ld-linux-aarch64.so.1] ==> ignore
+    arg [-X] ==> ignore
+    arg [-EL] ==> ignore
+    arg [-maarch64linux] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_b33a8] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtbegin.o] ==> ignore
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0]
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..] ==> dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..]
+    arg [CMakeFiles/cmTC_b33a8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/crtend.o] ==> ignore
+    arg [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64/crtn.o] ==> ignore
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0] ==> [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0]
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../../../lib64] ==> [/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0/../../..] ==> [/usr/lib64]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit dirs: [/usr/lib64/gcc/aarch64-meego-linux-gnu/8.3.0;/usr/lib64;/lib64]
+  implicit fwks: []
+
+
+Performing C++ SOURCE FILE Test TAGLIB_CAN_SAVE_ID3VER succeeded with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_886ad/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_886ad.dir/build.make CMakeFiles/cmTC_886ad.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_886ad.dir/src.cxx.o
+/usr/bin/c++ -DTAGLIB_CAN_SAVE_ID3VER -I/usr/include/taglib  -o CMakeFiles/cmTC_886ad.dir/src.cxx.o -c /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx: In function ‘int main()’:
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx:2:89: warning: ‘bool TagLib::MPEG::File::save(int, bool, int)’ is deprecated [-Wdeprecated-declarations]
+                             int main() { TagLib::MPEG::File *file; file->save(1, true, 3);  return 0; }
+                                                                                         ^
+In file included from /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx:1:
+/usr/include/taglib/mpegfile.h:205:30: note: declared here
+       TAGLIB_DEPRECATED bool save(int tags, bool stripOthers, int id3v2Version);
+                              ^~~~
+Linking CXX executable cmTC_886ad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_886ad.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_886ad.dir/src.cxx.o -o cmTC_886ad  -ltag 
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+#include <taglib/mpegfile.h>
+                            int main() { TagLib::MPEG::File *file; file->save(1, true, 3);  return 0; }
+Performing C++ SOURCE FILE Test TAGLIB_ASF_FOUND succeeded with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_e1396/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_e1396.dir/build.make CMakeFiles/cmTC_e1396.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e1396.dir/src.cxx.o
+/usr/bin/c++ -DTAGLIB_ASF_FOUND -I/usr/include/taglib  -o CMakeFiles/cmTC_e1396.dir/src.cxx.o -c /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_e1396
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e1396.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_e1396.dir/src.cxx.o -o cmTC_e1396  -ltag 
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+#include <asftag.h>
+                            int main() { TagLib::ASF::Tag tag; return 0;}
+Performing C++ SOURCE FILE Test TAGLIB_MP4_FOUND succeeded with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_4d1fd/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4d1fd.dir/build.make CMakeFiles/cmTC_4d1fd.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4d1fd.dir/src.cxx.o
+/usr/bin/c++ -DTAGLIB_MP4_FOUND -I/usr/include/taglib  -o CMakeFiles/cmTC_4d1fd.dir/src.cxx.o -c /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_4d1fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d1fd.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_4d1fd.dir/src.cxx.o -o cmTC_4d1fd  -ltag 
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+#include <mp4tag.h>
+                            int main() { TagLib::MP4::Tag tag(0, 0); return 0;}
+Performing C++ SOURCE FILE Test TAGLIB_OPUS_FOUND succeeded with the following output:
+Change Dir: /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_3dfb5/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_3dfb5.dir/build.make CMakeFiles/cmTC_3dfb5.dir/build
+gmake[1]: Entering directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3dfb5.dir/src.cxx.o
+/usr/bin/c++ -DTAGLIB_OPUS_FOUND -I/usr/include/taglib  -o CMakeFiles/cmTC_3dfb5.dir/src.cxx.o -c /home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_3dfb5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3dfb5.dir/link.txt --verbose=1
+/usr/bin/c++ -rdynamic CMakeFiles/cmTC_3dfb5.dir/src.cxx.o -o cmTC_3dfb5  -ltag 
+gmake[1]: Leaving directory '/home/defaultuser/Downloads/tmp/cantata-2.4.1/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+#include <opusfile.h>
+                            int main() { TagLib::Ogg::Opus::File *f=0; return 0;}

@@ -1,0 +1,31 @@
+The following OPTIONAL packages have been found:
+
+ * Taglib
+ * FFMPEG
+ * PkgConfig
+ * Mtp
+
+-- The following REQUIRED packages have been found:
+
+ * Qt5Core (required version >= 5.6.3)
+ * Qt5Gui (required version >= 5.6.3)
+ * Qt5Widgets
+ * Qt5Xml
+ * Qt5Network
+ * Qt5Concurrent
+ * Qt5Svg
+ * Qt5Sql
+ * Qt5DBus
+ * Qt5Multimedia, "MPD HTTP stream playback.", <http://qtproject.org>
+   PURPOSE""""
+ * ZLIB
+ * UDev, "UDev support for Solid", <http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html>
+   PURPOSE""Allows Solid to use UDev to provide information about devices on Linux""
+
+-- The following OPTIONAL packages have not been found:
+
+ * Avahi
+ * Cdioparanoia
+ * Cdparanoia
+ * MPG123
+ * Ebur128

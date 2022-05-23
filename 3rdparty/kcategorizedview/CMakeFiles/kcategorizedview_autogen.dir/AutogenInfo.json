@@ -1,0 +1,118 @@
+{
+	"BUILD_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview_autogen",
+	"CMAKE_BINARY_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedsortfilterproxymodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_kcategorizedsortfilterproxymodel.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedsortfilterproxymodel_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_kcategorizedsortfilterproxymodel_p.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview.h",
+			"Mu",
+			"EWIEGA46WW/moc_kcategorizedview.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_kcategorizedview_p.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorydrawer.h",
+			"Mu",
+			"EWIEGA46WW/moc_kcategorydrawer.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"KITEMVIEWS_NO_DEPRECATED",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_SQL_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/qt5",
+		"/usr/include/qt5/QtMultimedia",
+		"/usr/include/qt5/QtNetwork",
+		"/usr/include/qt5/QtCore",
+		"/usr/share/qt5/mkspecs/linux-g++",
+		"/usr/include/qt5/QtGui",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+		"/usr/include/qt5/QtWidgets",
+		"/usr/include/qt5/QtXml",
+		"/usr/include/qt5/QtConcurrent",
+		"/usr/include/qt5/QtSvg",
+		"/usr/include/qt5/QtSql",
+		"/usr/include/qt5/QtDBus",
+		"/usr/include/taglib",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview",
+		"/usr/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/CMakeFiles/kcategorizedview_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/CMakeFiles/kcategorizedview_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedsortfilterproxymodel.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorizedview.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/kcategorizedview/kcategorydrawer.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}

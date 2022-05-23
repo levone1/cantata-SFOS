@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/ebur128.c
+ebur128.h
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/ebur128.h
+float.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+queue.h
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/queue.h
+xmmintrin.h
+-
+
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/ebur128.h
+stddef.h
+-
+
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/queue.h
+

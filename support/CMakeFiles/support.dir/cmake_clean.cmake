@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/support_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/support_autogen.dir/ParseCache.txt"
+  "support_autogen"
+  "CMakeFiles/support.dir/acceleratormanager.cpp.o"
+  "CMakeFiles/support.dir/action.cpp.o"
+  "CMakeFiles/support.dir/actioncollection.cpp.o"
+  "CMakeFiles/support.dir/buddylabel.cpp.o"
+  "CMakeFiles/support.dir/combobox.cpp.o"
+  "CMakeFiles/support.dir/configdialog.cpp.o"
+  "CMakeFiles/support.dir/configuration.cpp.o"
+  "CMakeFiles/support.dir/dialog.cpp.o"
+  "CMakeFiles/support.dir/fancytabwidget.cpp.o"
+  "CMakeFiles/support.dir/gtkstyle.cpp.o"
+  "CMakeFiles/support.dir/icon.cpp.o"
+  "CMakeFiles/support.dir/inputdialog.cpp.o"
+  "CMakeFiles/support.dir/keysequencewidget.cpp.o"
+  "CMakeFiles/support.dir/kmessagewidget.cpp.o"
+  "CMakeFiles/support.dir/lineedit.cpp.o"
+  "CMakeFiles/support.dir/messagebox.cpp.o"
+  "CMakeFiles/support.dir/messagewidget.cpp.o"
+  "CMakeFiles/support.dir/monoicon.cpp.o"
+  "CMakeFiles/support.dir/pagewidget.cpp.o"
+  "CMakeFiles/support.dir/pathrequester.cpp.o"
+  "CMakeFiles/support.dir/proxystyle.cpp.o"
+  "CMakeFiles/support.dir/qrc_support.cpp.o"
+  "CMakeFiles/support.dir/shortcutsmodel.cpp.o"
+  "CMakeFiles/support.dir/shortcutssettingswidget.cpp.o"
+  "CMakeFiles/support.dir/spinner.cpp.o"
+  "CMakeFiles/support.dir/squeezedtextlabel.cpp.o"
+  "CMakeFiles/support.dir/support_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/support.dir/thread.cpp.o"
+  "CMakeFiles/support.dir/urllabel.cpp.o"
+  "libsupport.a"
+  "libsupport.pdb"
+  "qrc_support.cpp"
+  "ui_shortcutssettingswidget.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/support.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

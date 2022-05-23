@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty/ebur128/ebur128_autogen/mocs_compilation.cpp
+

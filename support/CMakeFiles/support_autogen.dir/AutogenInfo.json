@@ -1,0 +1,324 @@
+{
+	"BUILD_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/support_autogen",
+	"CMAKE_BINARY_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/CMakeLists.txt",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/support.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/acceleratormanager.h",
+			"Mu",
+			"EWIEGA46WW/moc_acceleratormanager.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/action.h",
+			"Mu",
+			"EWIEGA46WW/moc_action.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/actioncollection.h",
+			"Mu",
+			"EWIEGA46WW/moc_actioncollection.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/buddylabel.h",
+			"Mu",
+			"EWIEGA46WW/moc_buddylabel.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/combobox.h",
+			"Mu",
+			"EWIEGA46WW/moc_combobox.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/configdialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_configdialog.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/configuration.h",
+			"Mu",
+			"EWIEGA46WW/moc_configuration.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/dialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_dialog.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/fancytabwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_fancytabwidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/gtkstyle.h",
+			"Mu",
+			"EWIEGA46WW/moc_gtkstyle.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/icon.h",
+			"Mu",
+			"EWIEGA46WW/moc_icon.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/inputdialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_inputdialog.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/keysequencewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_keysequencewidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/kmessagewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_kmessagewidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/lineedit.h",
+			"Mu",
+			"EWIEGA46WW/moc_lineedit.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/messagebox.h",
+			"Mu",
+			"EWIEGA46WW/moc_messagebox.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/messagewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_messagewidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/monoicon.h",
+			"Mu",
+			"EWIEGA46WW/moc_monoicon.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/pagewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_pagewidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/pathrequester.h",
+			"Mu",
+			"EWIEGA46WW/moc_pathrequester.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/proxystyle.h",
+			"Mu",
+			"EWIEGA46WW/moc_proxystyle.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/shortcutsmodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_shortcutsmodel.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/shortcutssettingswidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_shortcutssettingswidget.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/spinner.h",
+			"Mu",
+			"EWIEGA46WW/moc_spinner.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/squeezedtextlabel.h",
+			"Mu",
+			"EWIEGA46WW/moc_squeezedtextlabel.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/thread.h",
+			"Mu",
+			"EWIEGA46WW/moc_thread.cpp"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/urllabel.h",
+			"Mu",
+			"EWIEGA46WW/moc_urllabel.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/support_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/support_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_SQL_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/qt5",
+		"/usr/include/qt5/QtMultimedia",
+		"/usr/include/qt5/QtNetwork",
+		"/usr/include/qt5/QtCore",
+		"/usr/share/qt5/mkspecs/linux-g++",
+		"/usr/include/qt5/QtGui",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/3rdparty",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1",
+		"/usr/include/qt5/QtWidgets",
+		"/usr/include/qt5/QtXml",
+		"/usr/include/qt5/QtConcurrent",
+		"/usr/include/qt5/QtSvg",
+		"/usr/include/qt5/QtSql",
+		"/usr/include/qt5/QtDBus",
+		"/usr/include/taglib",
+		"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support",
+		"/usr/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/CMakeFiles/support_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/CMakeFiles/support_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/acceleratormanager.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/action.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/actioncollection.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/buddylabel.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/combobox.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/configdialog.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/configuration.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/dialog.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/fancytabwidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/gtkstyle.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/icon.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/inputdialog.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/keysequencewidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/kmessagewidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/lineedit.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/messagebox.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/messagewidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/monoicon.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/pagewidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/pathrequester.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/proxystyle.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/shortcutsmodel.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/shortcutssettingswidget.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/spinner.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/squeezedtextlabel.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/thread.cpp",
+			"Mu"
+		],
+		[
+			"/home/defaultuser/Downloads/tmp/cantata-2.4.1/support/urllabel.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}
